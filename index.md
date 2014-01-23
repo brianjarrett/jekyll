@@ -7,6 +7,6 @@ title: Hello, World!
 </head>
 <body>
 	<h1>Jekyll + GitPages</h1>
-	<a href="about/"><h2>ABOUT HPP</h2></a>
+	<a href="{{ site.baseurl}}/about/"><h2>ABOUT HPP</h2></a>
 </body>
 </html>

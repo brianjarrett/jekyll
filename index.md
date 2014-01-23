@@ -7,6 +7,6 @@ title: Hello, World!
 </head>
 <body>
 	<h1>Jekyll + GitPages</h1>
-	<h2>HPP</h2>
+	<a href="about/"><h2>ABOUT HPP</h2></a>
 </body>
 </html>
